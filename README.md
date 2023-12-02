@@ -47,6 +47,4 @@ This repository contains a simple dynamic web application showcasing user login 
 
 Contributions are welcome! Please fork the repository and create a pull request for any improvements or additional features.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
